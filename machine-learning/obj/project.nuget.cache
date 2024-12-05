@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TPYrpiCuWEo=",
+  "dgSpecHash": "ujyliTtfUsY=",
   "success": true,
   "projectFilePath": "C:\\Users\\jonathan\\Documents\\machine learning\\dotnet-machine-learning\\machine-learning\\machine-learning.csproj",
   "expectedPackageFiles": [
@@ -39,13 +39,17 @@
     "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.ml\\4.0.0\\microsoft.ml.4.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.ml.cpumath\\4.0.0\\microsoft.ml.cpumath.4.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.ml.dataview\\4.0.0\\microsoft.ml.dataview.4.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
-    "C:\\Users\\jonathan\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
-    "C:\\Users\\jonathan\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",
@@ -53,11 +57,13 @@
     "C:\\Users\\jonathan\\.nuget\\packages\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
-    "C:\\Users\\jonathan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\jonathan\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "C:\\Users\\jonathan\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+    "C:\\Users\\jonathan\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
